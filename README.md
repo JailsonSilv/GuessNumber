@@ -11,6 +11,4 @@ https://user-images.githubusercontent.com/104876290/173457819-bf160fdc-37c3-4f9e
 * CSS3 💙
 * JAVA-SCRIPT 💛
 
-## Teste a aplicação ⚡🎯 : https://jailsonsilv.github.io/GuessNumber/
-
 Feito por <a href="https://www.linkedin.com/in/jailsondev-front-end/">Jailson Silva 😎</a>!
